@@ -1,5 +1,5 @@
 # Hello-Unity-Starter-Clones
-Some clone games I made when I first started my Unity learning journey.
+Some clone games that I made when I started Unity learning journey.
 <p align = "center">
   2D-Pong
   <img src="https://github.com/kizilcanali/Hello-Unity-Starter-Clones/blob/main/Screens/2DPong/Capture.JPG">
